@@ -1,10 +1,9 @@
 <small>
 
-## Примеры консольных приложений на Java.
-## Examples of java console applications
+## Examples of Java console applications.
 
 >
->Примеры консольных приложений:
+>Примеры Java консольных приложений :
 >  
 >[SeaBattleFlat - Консольная игра линейный морской бой](https://github.com/aykononov/JavaConsoleApplications/blob/master/src/SeaBattleFlat.java "Посмотреть пример Java")
 >
