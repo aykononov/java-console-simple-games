@@ -1,12 +1,11 @@
 <small>
 
-## Examples of Java console applications.
+## java-console-simple-games
 
->
->Примеры Java консольных приложений :
+>Java простые консольные игры:
 >  
->[SeaBattleFlat - Консольная игра линейный морской бой](https://github.com/aykononov/JavaConsoleApplications/blob/master/src/SeaBattleFlat.java "Посмотреть пример Java")
+>[SeaBattleFlat - Консольная игра линейный морской бой](https://github.com/aykononov/JavaConsoleApplications/blob/master/src/SeaBattleFlat.java "Посмотреть пример...")
 >
->[KrestikiNoliki - Консольная игра Крестики-Нолики](https://github.com/aykononov/JavaConsoleApplications/blob/master/src/KrestikiNoliki.java "Посмотреть пример Java")
+>[KrestikiNoliki - Консольная игра Крестики-Нолики](https://github.com/aykononov/JavaConsoleApplications/blob/master/src/KrestikiNoliki.java "Посмотреть пример...")
 
 </small>
